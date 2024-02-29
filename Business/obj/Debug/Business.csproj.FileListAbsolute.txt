@@ -1,0 +1,15 @@
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\Business.dll.config
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\Business.dll
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\Business.pdb
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\Data.dll
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\EntityFramework.dll
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\Data.pdb
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\Data.dll.config
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\EntityFramework.xml
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\obj\Debug\Business.dll
+C:\Users\Pc9\Desktop\Задание Иван Стойков 12г №9\CarApp\Business\obj\Debug\Business.pdb
